@@ -1,3 +1,5 @@
 # chat-app
 
-simple chat app using PHP (slim 4.0 framework)
+simple chat backend using PHP (slim 4.0 framework)
+
+also has a simple py tester 
